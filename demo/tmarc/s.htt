@@ -1,0 +1,12 @@
+<#@>
+<tr>
+<td bgcolor="ivory"><#f name=rownum></td>
+<td bgcolor="ivory"><#f name=rval fmt=external dll=fmtiso2709 func=bytemplate specifier1="c:\InetPub\wwwroot\tmarc\s.marc" specifier="/tmarc/s.marc"></td>
+<td bgcolor="beige"><a href=/scripts/marc.dll/show?form=/marc/e.htm&dbs=<#p name=dbs>&user=<#p name=user>&key=<#p name=key>&uid=<#p name=uid>&ukey=<#p name=ukey>&eg=<#p name=eg>&ecno=<#p name=ecno>&rno=<#F name=rno>><img src=/marc/icons/edit.gif alt="Редактировать запись <#f name=rno>" border=0></a></td>
+</tr>
+<#!@>
+<tr>
+<td bgcolor="ivory"></td>
+<td bgcolor="beige" colspan=2>нет ни одной записи в каталоге</td>
+</tr>
+<#/@>

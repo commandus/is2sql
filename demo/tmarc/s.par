@@ -1,0 +1,5 @@
+WORDS=" select frno from marc.mwrd w, marc.mfld f where (W.WVAL LIKE UPPER('%s') and f.fwno=w.wno) "
+WORDS delimiter=" INTERSECT "
+WORDS %chars="~.*?"
+WORDS min=3
+WORDS empty=" select frno from marc.mwrd w, marc.mfld f where ( W.WVAL LIKE 'ENSEN' ) "

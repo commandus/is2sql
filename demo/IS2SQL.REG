@@ -1,0 +1,72 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Ensen\is2sql]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Ensen\is2sql\1.0]
+"dbs"="tc"
+"user"="cli"
+"Key"="look"
+
+"LogFile"="c:\\log\\is2sql.txt"
+"LogDLL"="islog.dll"
+"LogStartFunc"="logstartfunc"
+"LogFunc"="logfunc"
+
+"ShortDateFormat"="dd.MM.yyyy"
+"LongTimeFormat"="HH:mm:ss"
+"ShortTimeFormat"="HH:mm"
+"LongDateFormat"="dd:MM:YYYY"
+"MaxConnections"=dword:00000004
+"NoCacheConnections"=dword:00000000
+"MkNull"=dword:00000000
+"ValidateQuoteChar"=dword:00000001
+"OptimizeDoc"=dword:00000000
+"DecimalSeparator"=""
+"RootPwd"="djghjc"
+"PageLineDelimiter"=" | "
+"PageLineActive"="<input type=hidden value=\"%s\">%d-%d</a>"
+"PageLineInactive"="<a href=\"%s\">%d-%d</a>"
+"PageLineStart"=" [ "
+"PageLineFinish"=" ] "
+"PageLineLimit"=dword:0000000a
+"PageLineStep"=dword:0000000a
+"SQLCollection"="none"
+"CurrencySimple"=dword:00000000
+"DBConnectFailForm"="/quiz/fail/dbfail.htm"
+"Banner"="Powered by is2sql (c) 1999, 2000, 2001, 2002 Andrei Ivanov. All rights reserved."
+"AccessDeniedForm"=""
+"DoTransaction"="1"
+"DbSQLTrace"="0"
+"DbTransisolation"="0"
+"ExpiresMinutes"="5"
+"TagPrefix"="#"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Ensen\is2sql\1.0\DbAlias]
+"tc"="127.0.0.1:E:\\InetPub\\ttc\\db\\ttc.gdb,WIN1251"
+"equiz"="db01,"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Ensen\is2sql\1.0\ReconnectError]
+"Count"=dword:00000005
+"Each"=dword:00000000
+"1"="ORA-01041"
+"2"="TNS-"
+"3"="ORA-03113"
+"4"="ORA-03114"
+"5"="TNS-12154"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Ensen\is2sql\1.0\ResponseCustomHeader]
+"Greeting"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Ensen\is2sql\1.0\Variables]
+"SCH"="QUIZ"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Ensen\is2sql\1.0\Virtual Roots]
+"/quiz"="C:\\SRC\\equiz\\quiz,,1"
+"/equiz"="C:\\SRC\\equiz\\equiz,,1"
+"/tquiz"="C:\\SRC\\equiz\\tquiz-ora,,0"
+"/scripts"="E:\\InetPub\\SCRIPTS,,4"
+"/tstd"="c:\\src\\tstd,,0"
+"/std"="c:\\src\\std,,1"
+"/tmarc"="c:\\inetpub\\wwwroot\\tmarc,,0"
+"/marc"="c:\\inetpub\\wwwroot\\marc,,0"
+

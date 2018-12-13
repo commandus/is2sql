@@ -1,0 +1,93 @@
+"Torry's Delphi Pages" files/links uploads form
+
+
+Filename (xxxxxxxx.xxx): is2sql.zip
+
+Component/Application/Tool/Link name: VCL/Internet/CGI, ISAPI
+
+Version: 1.11
+
+File size: 620k
+
+Delphi version and C++ Builder compatibility (check all that apply):
+		[ ] Delphi 1.x 
+		[ ] Delphi 2.x
+		[x] Delphi 3.x 
+		[x] Delphi 4.x
+		[x] Delphi 5.x
+		[x] Delphi 6.x
+		[ ] C++ Builder 1.x
+		[ ] C++ Builder 3.x
+		[ ] C++ Builder 4.x
+		[ ] C++ Builder 5.x
+
+
+If application or tool please indicate targeted OS (check all that apply):
+		[ ] W3.X
+		[x] W95
+		[x] W98
+		[x] NT
+		[x] W2000
+
+
+Type:
+		[x] Freeware
+		[ ] Shareware
+		[ ] Commercial 
+
+Price:
+
+Price (with source):
+
+Source Availability:
+		[x] Included 
+		[ ] Purchase/Registration 
+		[ ] On request 
+		[ ] None
+		[ ] N/A 
+
+Status:
+		[x] Fully Functional 
+		[ ] Trial (Works when IDE is running) 
+		[ ] Evaluation (Time Limit) 
+		[ ] With Nag Screen 
+		[ ] Demo only 
+		[ ] N/A 
+
+Author Name: Andrey Ivanov
+
+Company Name:
+
+EMail: andy@sitc.ru
+
+Web page: http://ensen.8m.com
+
+Description: Provides an easy way to build web- based application with templates. Creates dynamic web pages interacts with databases - now directly to Interbase or via BDE in manner of Allaire's Cold Fusion.
+
+
+File Location:
+		[x] Uploaded or soon will be 
+		[ ] Please download it 
+		[ ] Link (in this case we don't inform you about downloads count)
+		[ ] Sent/sending via EMail 
+		[ ] Just additional info 
+
+For link to your file, enter exact URL to the file:
+
+If you want us to download the file, enter permanent URL to the file:
+
+URL for on-line registration (if any):
+
+Version this file replaces (if any) that should be removed from our site: 1.5
+
+Notes:
+
+
+Do you want to recieve information about your files download (only for files that located on "Torry's Delphi Pages",
+usually every second weekends)? NOT AVAILABLE NOW!
+		[x] Yes
+		[ ] No 
+
+Do you allow to place your files on "Torry's Delphi Pages" CD?
+		[x] Yes
+		[ ] No 
